@@ -5,7 +5,7 @@ date:   2021-12-08 21:21:53 +00:00
 image: /images/mbpg.jpg
 categories: research
 author: "Shenao Zhang"
-authors: "<strong>Shenao Zhang</strong>, Zhaoran Wang, Tuo Zhao"
+authors: "<strong>Shenao Zhan</strong>, Zhaoran Wang, Tuo Zhao"
 venue: "Work in progress"
 arxiv: https://shenao-zhang.github.io/MBPG-2021/MBPG.pdf
 ---
