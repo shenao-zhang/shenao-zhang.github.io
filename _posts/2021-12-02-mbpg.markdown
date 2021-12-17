@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Global Convergence of Analytic Policy Gradient Through Model Backpropagation"
-date: "May 2021"
+date:   2021-12-08 21:21:53 +00:00
 image: /images/stra20.png
 categories: research
 author: "Shenao Zhang"
