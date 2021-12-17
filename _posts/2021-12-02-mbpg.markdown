@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Global Convergence of Analytic Policy Gradient Through Model Backpropagation"
+date: "June 2021"
+image: /images/stra20.png
+categories: research
+author: "Shenao Zhang"
+authors: "<strong>Shenao Zhang</strong>, Zhaoran Wang, Tuo Zhao"
+venue: "Work in progress"
+arxiv: https://shenao-zhang.github.io/MBPG-2021/MBPG.pdf
+---
