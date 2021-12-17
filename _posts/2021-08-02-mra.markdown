@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Meta Representation for Agents in Multi-Agent Reinforcement Learning"
-date: "May "
+date: "May 2021"
 image: /images/mra21.png
 categories: research
 author: "Shenao Zhang"
