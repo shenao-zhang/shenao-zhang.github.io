@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Structure-Regularized Attention for Deformable Object Representation"
-date: "May 2020"
+title:  "Global Convergence of Analytic Policy Gradient Through Model Backpropagation."
+date: "December 2021"
 image: /images/stra20.png
 categories: research
 author: "Shenao Zhang"
-authors: "<strong>Shenao Zhang</strong>, Li Shen, Zhifeng Li, Wei Liu"
-venue: "NeurIPS Workshop on Object Representations for Learning and Reasoning"
-arxiv: https://arxiv.org/pdf/2106.06672.pdf
-website: https://orlrworkshop.github.io/program/orlr_21.html
-code: https://github.com/shenao-zhang/StRA
-poster: /pdfs/nips20-poster.pdf
+authors: "<strong>Shenao Zhang</strong>, Zhaoran Wang, Tuo Zhao"
+venue: "Work in progress"
+arxiv: https://shenao-zhang.github.io/MBPG-2021/MBPG.pdf
 ---
