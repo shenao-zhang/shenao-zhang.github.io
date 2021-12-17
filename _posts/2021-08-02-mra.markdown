@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Learning Meta Representation for Agents in Multi-Agent Reinforcement Learning"
+date: "May "
+image: /images/mra21.png
+categories: research
+author: "Shenao Zhang"
+authors: "<strong>Shenao Zhang</strong>,  Li Shen, Lei Han, Li Shen"
+venue: "Under review at Machine Learning Journal"
+arxiv: https://arxiv.org/pdf/2108.12988.pdf
+---
+
