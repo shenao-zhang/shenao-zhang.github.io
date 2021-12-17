@@ -5,7 +5,7 @@ date: "May 2021"
 image: /images/stra20.png
 categories: research
 author: "Shenao Zhang"
-authors: "<strong>Shenao Zhang</strong>, Zhaoran Wang, Tuo Zhao"
+authors: "<strong>Shenao Zhang</strong>, Zhaoran Wan, Tuo Zhao"
 venue: "Work in progress"
 arxiv: https://shenao-zhang.github.io/MBPG-2021/MBPG.pdf
 ---
