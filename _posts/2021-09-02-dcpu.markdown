@@ -6,6 +6,6 @@ image: /images/dcpu21.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Evangelos Theodorou"
-venue: "Under review at International Conference on Artificial Intelligence and Statistics (AISTATS)"
+venue: "Under review at Robotics: Science and Systems (RSS)"
 arxiv: https://shenao-zhang.github.io/DCPU-2021/DCPU.pdf
 ---
