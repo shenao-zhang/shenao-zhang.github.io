@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dual Conservative Policy Update for Efficient Model-Based Reinforcement Learning"
-date:   2022-01-01 21:22:53 +00:00
+date:   2022-02-02 21:22:53 +00:00
 image: /images/dcpu21.jpg
 categories: research
 author: "Shenao Zhang"
