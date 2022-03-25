@@ -6,7 +6,7 @@ image: /images/dcpu21.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Evangelos Theodorou"
-venue: "ICLR GroundedML Workshop on Anchoring Machine Learning in Classical Algorithmic Theory  
+venue: "ICLR GroundedML Workshop on Anchoring Machine Learning in Classical Algorithmic Theory\  
 Under review at Robotics: Science and Systems (RSS)"
 arxiv: https://shenao-zhang.github.io/DCPU-2021/DCPU.pdf
 ---
