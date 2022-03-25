@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning Value Equivalent Model on Policy Improvement Path"
+title:  "Learning Value Equivalent Models in Policy Improvement Path for Efficient MBRL"
 date:   2022-03-08 21:12:53 +00:00
 image: /images/mbpg21.jpg
 categories: research
