@@ -5,7 +5,7 @@ date:   2022-01-01 00:00:01 +00:00
 image: /images/mra21.png
 categories: research
 author: "Shenao Zhang"
-authors: "<strong>Shenao Zhang</strong>,  Li Shen, Lei Han, Li Shen"
+authors: "<strong>Shenao Zhang</strong>,  Li Shen, Lei Han, Li Sheng"
 venue: "ICLR Workshop on Gamification and Multiagent Solutions\   
 Under review at Machine Learning Journal"
 arxiv: https://arxiv.org/pdf/2108.12988.pdf
