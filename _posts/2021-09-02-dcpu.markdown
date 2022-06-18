@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Dual Conservative Policy Update for Efficient Model-Based Reinforcement Learning"
+title:  "Conservative Dual Policy Optimization for Efficient Model-Based Reinforcement Learning"
 date:   2022-02-02 21:22:53 +00:00
 image: /images/dcpu21.jpg
 categories: research
 author: "Shenao Zhang"
-authors: "<strong>Shenao Zhang</strong>, Evangelos Theodorou"
+authors: "<strong>Shenao Zhang</strong>"
 venue: "ICLR GroundedML Workshop on Anchoring Machine Learning in Classical Algorithmic Theory  <br />
-Under review at Robotics: Science and Systems (RSS)"
-arxiv: https://shenao-zhang.github.io/DCPU-2021/DCPU.pdf
+Under review at Neural Information Processing Systems (NeurIPS)"
+arxiv: https://shenao-zhang.github.io/CDPO-2021/CDPO.pdf
 poster: https://iclr.cc/media/PosterPDFs/ICLR%202022/c81e728d9d4c2f636f067f89cc14862c_UhTy1WC.png
 ---
