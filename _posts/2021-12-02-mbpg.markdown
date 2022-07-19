@@ -5,7 +5,7 @@ date:   2022-03-08 21:12:53 +00:00
 image: /images/mbpg21.jpg
 categories: research
 author: "Shenao Zhang"
-authors: "<strong>Shenao Zhang</strong>,  Boyi Liu, Tuo Zhao, Zhaoran Wang"
+authors: "<strong>Shenao Zhang</strong>"
 venue: "Work in progress"
 arxiv: https://shenao-zhang.github.io/MBPG-2021/MBPG.pdf
 ---
