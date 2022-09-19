@@ -7,7 +7,6 @@ categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>"
 venue: "Neural Information Processing Systems (NeurIPS)"
-arxiv: https://shenao-zhang.github.io/CDPO-2021/CDPO.pdf
-website: https://iclr.cc/virtual/2022/workshop/4565#wse-detail-7534
+arxiv: https://arxiv.org/abs/2209.07676
 poster: https://iclr.cc/media/PosterPDFs/ICLR%202022/c81e728d9d4c2f636f067f89cc14862c_UhTy1WC.png
 ---
