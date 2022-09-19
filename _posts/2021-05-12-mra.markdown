@@ -8,7 +8,7 @@ author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>,  Li Shen, Lei Han, Li Shen"
 venue: "Under review at Machine Learning Journal <br />
 ICLR Workshop on Gamification and Multiagent Solutions"
-arxiv: https://arxiv.org/pdf/2108.12988.pdf
+arxiv: https://arxiv.org/abs/2108.12988
 website: https://openreview.net/forum?id=SbNlwsq1peq
 poster: https://iclr.cc/media/PosterPDFs/ICLR%202022/3c59dc048e8850243be8079a5c74d079.png
 ---
