@@ -6,6 +6,6 @@ image: /images/mbpg21.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Boyi Liu, Yan Li, Zhaoran Wang, Tuo Zhao"
-venue: "In progress"
+venue: "Preprint"
 arxiv: https://shenao-zhang.github.io/RPgradRL/RPgrad.pdf
 ---
