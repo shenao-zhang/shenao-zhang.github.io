@@ -8,5 +8,6 @@ author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>"
 venue: "Neural Information Processing Systems (NeurIPS)"
 arxiv: https://arxiv.org/abs/2209.07676
-poster: https://iclr.cc/media/PosterPDFs/ICLR%202022/c81e728d9d4c2f636f067f89cc14862c_UhTy1WC.png
+poster: https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54577.png?t=1669654134.1492257
+talk: https://recorder-v3.slideslive.com/#/share?share=76276&s=02521712-c16c-42a3-8bee-febfa1a416a2
 ---
