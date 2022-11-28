@@ -83,6 +83,9 @@
               {% if post.poster %}
               <a href="{{post.poster}}">poster</a> /
               {% endif %}
+              {% if post.talk %}
+              <a href="{{post.talk}}">talk</a> /
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
