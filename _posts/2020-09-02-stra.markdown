@@ -7,7 +7,7 @@ categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Li Shen, Zhifeng Li, Wei Liu"
 venue: "NeurIPS Workshop on Object Representations for Learning and Reasoning"
-arxiv: https://arxiv.org/pdf/2106.06672.pdf
+arxiv: https://arxiv.org/abs/2106.06672
 website: https://orlrworkshop.github.io/program/orlr_21.html
 code: https://github.com/shenao-zhang/StRA
 poster: /pdfs/nips20-poster.pdf
