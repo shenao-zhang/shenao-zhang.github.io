@@ -7,5 +7,5 @@ categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Wanxin Jin, Zhaoran Wang"
 venue: "In submission to ICML"
-arxiv: https://shenao-zhang.github.io/RPgradRL/RPgrad.pdf
+arxiv: https://shenao-zhang.github.io/contact/contact.pdf
 ---
