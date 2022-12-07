@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Model-Based Reparameterization Policy Gradient Methods"
-date:   2022-03-08 21:12:53 +00:00
+title:  "Model-Based Reparameterization Policy Gradient Methods: Theory and Practical Algorithms"
+date:   2023-01-01 21:12:53 +00:00
 image: /images/mbpg21.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Boyi Liu, Yan Li, Zhaoran Wang, Tuo Zhao"
-venue: "Preprint"
+venue: "In submission to ICML"
 arxiv: https://shenao-zhang.github.io/RPgradRL/RPgrad.pdf
 ---
