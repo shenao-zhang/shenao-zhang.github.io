@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Structure-Regularized Attention for Deformable Object Representation"
-date: "May 2019"
+date: "May 2020"
 image: /images/stra20.png
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Li Shen, Zhifeng Li, Wei Liu"
-venue: "NeurIPS Workshop on Object Representations for Learning and Reasoning"
+venue: "NeurIPS Workshop on Object Representations for Learning and Reasoning, 2020"
 arxiv: https://arxiv.org/abs/2106.06672
 website: https://orlrworkshop.github.io/program/orlr_21.html
 code: https://github.com/shenao-zhang/StRA
