@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Conservative Dual Policy Optimization for Efficient Model-Based Reinforcement Learning"
-date:   2021-02-02 21:22:53 +00:00
+date:   2022-02-02 21:22:53 +00:00
 image: /images/dcpu21.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>"
-venue: "Neural Information Processing Systems (NeurIPS)"
+venue: "Neural Information Processing Systems (NeurIPS), 2022"
 arxiv: https://arxiv.org/abs/2209.07676
 website: https://openreview.net/forum?id=xL7B5axplIe
 poster: https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54577.png?t=1669654134.1492257
