@@ -6,6 +6,6 @@ image: /images/mbpg21.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Boyi Liu, Yan Li, Zhaoran Wang, Tuo Zhao"
-venue: "In submission to ICML"
+venue: "In submission to ICML 2023"
 arxiv: https://shenao-zhang.github.io/RPgradRL/RPgrad.pdf
 ---
