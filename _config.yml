@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+google_analytics: UA-254675481-1
 
 # Name of your site (displayed in the header)
 name: Shenao Zhang
