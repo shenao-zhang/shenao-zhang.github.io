@@ -6,7 +6,7 @@ image: /images/mra21.png
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>,  Li Shen, Lei Han, Li Shen"
-venue: "Under review at Machine Learning Journal <br />
+venue: "Under review <br />
 ICLR Workshop on Gamification and Multiagent Solutions, 2022"
 arxiv: https://arxiv.org/abs/2108.12988
 website: https://openreview.net/forum?id=SbNlwsq1peq
