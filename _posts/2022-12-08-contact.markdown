@@ -6,6 +6,6 @@ image: /images/contact22.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Wanxin Jin, Zhaoran Wang"
-venue: "International Conference on Machine Learning (ICML)"
+venue: "International Conference on Machine Learning (ICML), 2023"
 arxiv: https://shenao-zhang.github.io/contact/contact.pdf
 ---
