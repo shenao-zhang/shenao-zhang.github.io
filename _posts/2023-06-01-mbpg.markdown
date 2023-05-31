@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Asking Before Action: Gather Information in Embodied Decision Making with Language Models"
+title:  "Model-Based Reparameterization Policy Gradient Methods: Theory and Practical Algorithms"
 date:   2023-05-30 12:15:53 +02:00
-image: /images/ask23.jpg
+image: /images/mbpg21.jpg
 categories: research
 author: "Shenao Zhang"
-authors: "Xiaoyu Chen, <strong>Shenao Zhang</strong>, Pushi Zhang, Li Zhao, Jianyu Chen"
+authors: "<strong>Shenao Zhang</strong>, Boyi Liu, Zhaoran Wang, Tuo Zhao"
 venue: "Under review"
-arxiv: https://arxiv.org/abs/2305.15695
+arxiv: https://shenao-zhang.github.io/RPgradRL/RPgrad.pdf
 ---
