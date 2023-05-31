@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Asking Before Action: Gather Information in Embodied Decision Making with Language Models"
+date:   2023-05-30 12:15:53 +02:00
+image: /images/ask23.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "Xiaoyu Chen, <strong>Shenao Zhang</strong>, Pushi Zhang, Li Zhao, Jianyu Chen"
+venue: "Under review"
+arxiv: https://arxiv.org/abs/2305.15695
+---
