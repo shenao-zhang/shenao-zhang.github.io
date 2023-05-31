@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Asking Before Action: Gather Information in Embodied Decision Making with Language Models"
-date:   2023-05-31 13:15:53 +01:00
+date:   2023-05-30 12:15:53 +02:00
 image: /images/ask23.jpg
 categories: research
 author: "Shenao Zhang"
