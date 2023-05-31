@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "One Objective to Rule Them All: A Maximization Objective Fusing Estimation and Planning for Exploration"
+date:   2023-05-30 13:15:53 +01:00
+image: /images/io23.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "Zhihan Liu, Miao Lu, Wei Xiong, Han Zhong, Hao Hu, <strong>Shenao Zhang</strong>, Sirui Zheng, Zhuoran Yang, Zhaoran Wang"
+venue: "Under review"
+arxiv: https://arxiv.org/abs/2305.18258
+---
