@@ -6,8 +6,7 @@ image: /images/mra21.png
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>,  Li Shen, Lei Han, Li Shen"
-venue: "Conference on Lifelong Learning Agents (CoLLAs), 2023 <br />
-ICLR Workshop on Gamification and Multiagent Solutions, 2022"
+venue: "Conference on Lifelong Learning Agents (CoLLAs), 2023 (<span style='color: red;'>oral</span>)"
 arxiv: https://arxiv.org/abs/2108.12988
 poster: https://iclr.cc/media/PosterPDFs/ICLR%202022/3c59dc048e8850243be8079a5c74d079.png
 ---
