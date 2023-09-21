@@ -6,6 +6,6 @@ image: /images/mbpg21.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Boyi Liu, Zhaoran Wang, Tuo Zhao"
-venue: "Under review"
+venue: "Neural Information Processing Systems (NeurIPS), 2023"
 arxiv: https://shenao-zhang.github.io/RPgradRL/RPgrad.pdf
 ---
