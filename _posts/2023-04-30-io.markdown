@@ -6,6 +6,6 @@ image: /images/io23.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "Zhihan Liu, Miao Lu, Wei Xiong, Han Zhong, Hao Hu, <strong>Shenao Zhang</strong>, Sirui Zheng, Zhuoran Yang, Zhaoran Wang"
-venue: "Under review"
+venue: "Neural Information Processing Systems (NeurIPS), 2023"
 arxiv: https://arxiv.org/abs/2305.18258
 ---
