@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Model-Based Reparameterization Policy Gradient Methods: Theory and Practical Algorithms"
+date:   2023-08-30 12:15:53 +02:00
+image: /images/rafa.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "Zhihan Liu*, Hao Hu*, <strong>Shenao Zhang</strong>*, Hongyi Guo, Shuqi Ke, Boyi Liu, Zhaoran Wang"
+venue: "Under review"
+arxiv: https://arxiv.org/abs/2309.17382
+---
