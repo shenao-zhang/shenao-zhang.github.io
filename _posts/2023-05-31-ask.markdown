@@ -6,6 +6,6 @@ image: /images/ask23.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "Xiaoyu Chen, <strong>Shenao Zhang</strong>, Pushi Zhang, Li Zhao, Jianyu Chen"
-venue: "Under review"
+venue: "Preprint"
 arxiv: https://arxiv.org/abs/2305.15695
 ---
