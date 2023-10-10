@@ -6,6 +6,6 @@ image: /images/rafa.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "Zhihan Liu*, Hao Hu*, <strong>Shenao Zhang</strong>*, Hongyi Guo, Shuqi Ke, Boyi Liu, Zhaoran Wang"
-venue: "Under review"
+venue: "Preprint"
 arxiv: https://arxiv.org/abs/2309.17382
 ---
