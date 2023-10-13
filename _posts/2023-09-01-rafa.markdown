@@ -8,4 +8,6 @@ author: "Shenao Zhang"
 authors: "Zhihan Liu*, Hao Hu*, <strong>Shenao Zhang</strong>*, Hongyi Guo, Shuqi Ke, Boyi Liu, Zhaoran Wang"
 venue: "Preprint"
 arxiv: https://arxiv.org/abs/2309.17382
+website: https://agentification.github.io/RAFA
+code: https://github.com/agentification/RAFA_code
 ---
