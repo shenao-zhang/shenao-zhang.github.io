@@ -7,5 +7,6 @@ categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Boyi Liu, Zhaoran Wang, Tuo Zhao"
 venue: "Neural Information Processing Systems (NeurIPS), 2023"
-arxiv: https://shenao-zhang.github.io/RPgradRL/RPgrad.pdf
+arxiv: https://neurips.cc/virtual/2023/poster/71140
+code: https://github.com/agentification/RP_PGM
 ---
