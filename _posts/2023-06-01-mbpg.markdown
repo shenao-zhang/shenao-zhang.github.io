@@ -5,7 +5,7 @@ date:   2023-05-30 12:15:53 +02:00
 image: /images/mbpg21.jpg
 categories: research
 author: "Shenao Zhang"
-authors: "<strong>Shenao Zhang</strong>, Boyi Liu, Zhaoran Wang, Tuo Zhao"
+authors: "<strong>Shenao Zhang</strong>, Boyi Liu, Zhaoran Wang†, Tuo Zhao†"
 venue: "Neural Information Processing Systems (NeurIPS), 2023"
 arxiv: https://neurips.cc/virtual/2023/poster/71140
 code: https://github.com/agentification/RP_PGM
