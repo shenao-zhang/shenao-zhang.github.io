@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "One Objective to Rule Them All: A Maximization Objective Fusing Estimation and Planning for Exploration"
+title:  "Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration"
 date:   2023-04-30 11:10:53 +01:00
 image: /images/io23.jpg
 categories: research
 author: "Shenao Zhang"
-authors: "Zhihan Liu*, Miao Lu*, Wei Xiong, Han Zhong, Hao Hu, <strong>Shenao Zhang</strong>, Sirui Zheng, Zhuoran Yang, Zhaoran Wang"
+authors: "Zhihan Liu*, Miao Lu*, Wei Xiong*, Han Zhong, Hao Hu, <strong>Shenao Zhang</strong>, Sirui Zheng, Zhuoran Yang, Zhaoran Wang"
 venue: "Neural Information Processing Systems (NeurIPS), 2023 (<span style='color: red;'>Spotlight</span>)"
 arxiv: https://arxiv.org/abs/2305.18258
+code: https://github.com/agentification/MEX
 ---
