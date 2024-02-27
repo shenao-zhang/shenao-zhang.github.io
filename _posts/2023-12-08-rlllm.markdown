@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "How Can LLM Guide RL? A Value-Based Approach"
+date:   2023-12-30 12:15:53 +02:00
+image: /images/rlllm23.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "<strong>Shenao Zhang</strong>*, Sirui Zheng*, Shuqi Ke, Shuqi Ke, Zhihan Liu, Wanxin Jin, Jianbo Yuan, Yingxiang Yang, Hongxia Yang, Zhaoran Wang"
+venue: "Preprint"
+arxiv: https://arxiv.org/abs/2402.16181
+code: https://github.com/agentification/Language-Integrated-VI
+---
