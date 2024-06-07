@@ -6,9 +6,9 @@ image: /images/rafa.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "Zhihan Liu*, Hao Hu*, <strong>Shenao Zhang</strong>*, Hongyi Guo, Shuqi Ke, Boyi Liu, Zhaoran Wang"
-venue: "International Conference on Machine Learning (ICML), 2024 <br />
-Preprint"
-arxiv: https://arxiv.org/abs/2309.17382
+venue: "International Conference on Machine Learning (ICML), 2024 <br />"
+arxiv: https://openreview.net/pdf?id=MGkeWJxQVl
 website: https://agentification.github.io/RAFA
 code: https://github.com/agentification/RAFA_code
+tweet: https://x.com/zhaoran_wang/status/1713616478153392448
 ---

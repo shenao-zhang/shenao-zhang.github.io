@@ -35,11 +35,11 @@
               <h1>
                 Shenao Zhang 
               </h1>
-              <p>I am a first-year Ph.D. student at <a href="https://www.northwestern.edu/">Northwestern University</a>, advised by Prof. <a href="https://zhaoranwang.github.io/">Zhaoran Wang</a>. I am also a Student Researcher at <a href="https://www.microsoft.com/en-us/research/">Microsoft Research (MSR)</a> working with <a href="https://plusross.github.io/">Donghan Yu</a>. I received my M.S. degree from <a href="https://www.gatech.edu/">Georgia Tech</a>, where I was fortunate to work with Prof. <a href="https://www2.isye.gatech.edu/~tzhao80/">Tuo Zhao</a> and Prof. <a href="https://bo-dai.github.io/">Bo Dai</a>. I obtained my Bachelor's degree from <a href="https://www.scut.edu.cn/en/">South China University of Technology</a>. In the spring of 2019, I visited UC Berkeley EECS. Previously, I was a research intern at <a href="https://www.bytedance.com/">ByteDance AML</a>, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">MSR Asia</a>, and <a href="https://ai.tencent.com/ailab/en/index/">Tencent AI Lab</a>.
+              <p>I am a first-year Ph.D. student at <a href="https://www.northwestern.edu/">Northwestern University</a>, advised by Prof. <a href="https://zhaoranwang.github.io/">Zhaoran Wang</a>. I was a Student Researcher at <a href="https://www.microsoft.com/en-us/research/">Microsoft GenAI</a> working with <a href="https://plusross.github.io/">Donghan Yu</a>. I received my M.S. degree from <a href="https://www.gatech.edu/">Georgia Tech</a>, where I was fortunate to work with Prof. <a href="https://www2.isye.gatech.edu/~tzhao80/">Tuo Zhao</a> and Prof. <a href="https://bo-dai.github.io/">Bo Dai</a>. I obtained my Bachelor's degree from <a href="https://www.scut.edu.cn/en/">South China University of Technology</a>. In the spring of 2019, I visited UC Berkeley EECS. Previously, I was a research intern at <a href="https://www.bytedance.com/">ByteDance AML</a>, <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>, and <a href="https://ai.tencent.com/ailab/en/index/">Tencent AI Lab</a>.
               </p>
               <p style="text-align:center">
                 <a href="https://shenao-zhang.github.io/cv/Zhang_Shenao_CV.pdf">CV</a> &nbsp;/&nbsp;
-                <a target="_blank" href="mailto:shenao@gatech.edu"> Email</a> &nbsp;/&nbsp;
+                <a target="_blank" href="mailto:shenao@u.northwestern.edu"> Email</a> &nbsp;/&nbsp;
                 <a href="https://scholar.google.com/citations?user=8NamuusAAAAJ&hl">Google Scholar</a> &nbsp;/&nbsp;
                 <a href="https://www.linkedin.com/in/shenao-zhang-055a53178/"> LinkedIn </a> &nbsp;/&nbsp;
                 <a href="https://twitter.com/ShenaoZhang"> Twitter </a>
@@ -57,7 +57,7 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
               <p>
-                My research centers around Large Language Models (LLMs) and Reinforcement Learning (RL). I’m interested in developing autonomous agents and data-efficient decision-making algorithms/models with applications to robotic and multi-agent systems.
+                My research centers around Large Language Models (LLMs) and Reinforcement Learning (RL). I’m currently interested in aligning LLMs with RLHF, studying active synthetic data generation and reward overoptimization. Previously, I built autonomous LLM agents and developed data-efficient decision-making algorithms with applications to robotic and multi-agent systems.
               </p>
               <style>
   .specific-line {
@@ -100,8 +100,11 @@
               {% if post.poster %}
               <a href="{{post.poster}}">poster</a> /
               {% endif %}
-              {% if post.talk %}
-              <a href="{{post.talk}}">talk</a> /
+              {% if post.tweet %}
+              <a href="{{post.tweet}}">tweet</a> /
+              {% endif %}
+              {% if post.video %}
+              <a href="{{post.video}}">video</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
@@ -117,7 +120,7 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Professional Service</h2>
               <p>
-                <b>Conference Review:</b> NeurIPS 2020-23, ICLR 2022-23, AISTATS 2022-23, RSS 2021, ICML 2022-23. 
+                <b>Conference Review:</b> NeurIPS 2020-24, ICLR 2022-24, ICML 2022-24, AISTATS 2022-24, RSS 2021.
               </p>
               <p>
                 <b>Journal Review:</b> Neurocomputing, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).

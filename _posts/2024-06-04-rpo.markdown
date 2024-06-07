@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Provably Mitigating Overoptimization in RLHF: Your SFT Loss is Implicitly an Adversarial Regularizer"
+date:   2024-06-04 12:15:53 +02:00
+image: /images/rpo.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "Zhihan Liu*, Miao Lu*, <strong>Shenao Zhang</strong>, Boyi Liu, Hongyi Guo, Yingxiang Yang, Jose Blanchet, Zhaoran Wang"
+venue: "Preprint, 2024"
+arxiv: https://arxiv.org/abs/2405.16436
+---

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Self-Exploring Language Models: Active Preference Elicitation for Online Alignment"
+date:   2024-06-06 12:15:53 +02:00
+image: /images/selm.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "<strong>Shenao Zhang</strong>, Donghan Yu, Hiteshi Sharma, Ziyi Yang, Shuohang Wang, Hany Hassan, Zhaoran Wang"
+venue: "Preprint, 2024"
+arxiv: https://arxiv.org/abs/2405.19332
+code: https://github.com/shenao-zhang/SELM
+tweet: https://twitter.com/ShenaoZhang/status/1796271110104740009
+---

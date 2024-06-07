@@ -10,5 +10,5 @@ venue: "Neural Information Processing Systems (NeurIPS), 2022"
 arxiv: https://arxiv.org/abs/2209.07676
 website: https://openreview.net/forum?id=xL7B5axplIe
 poster: https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54577.png?t=1669654134.1492257
-talk: https://slideslive.com/38991654
+video: https://slideslive.com/38991654
 ---
