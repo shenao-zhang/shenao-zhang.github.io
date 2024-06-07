@@ -6,6 +6,6 @@ image: /images/agpo.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "Feng Gao*, Liangzhi Shi*, <strong>Shenao Zhang</strong>, Zhaoran Wang, Yi Wu"
-venue: "International Conference on Machine Learning (ICML), 2024 <br />"
+venue: "International Conference on Machine Learning (ICML), 2024"
 arxiv: https://openreview.net/pdf?id=S9DV6ZP4eE
 ---
