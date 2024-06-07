@@ -10,4 +10,5 @@ venue: "Preprint, 2024"
 arxiv: https://arxiv.org/abs/2405.19332
 code: https://github.com/shenao-zhang/SELM
 tweet: https://twitter.com/ShenaoZhang/status/1796271110104740009
+models: https://huggingface.co/collections/ZhangShenao
 ---

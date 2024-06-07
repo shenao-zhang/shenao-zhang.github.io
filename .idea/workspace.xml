@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d696fea0-f830-446d-b2aa-65a422680aa2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2023-05-31-ask.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-05-31-ask.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-06-06-selm.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-06-06-selm.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717734386980</updated>
       <workItem from="1717734390728" duration="390000" />
-      <workItem from="1717734795767" duration="8634000" />
+      <workItem from="1717734795767" duration="9043000" />
     </task>
     <servers />
   </component>
