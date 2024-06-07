@@ -100,14 +100,14 @@
               {% if post.poster %}
               <a href="{{post.poster}}">poster</a> /
               {% endif %}
+              {% if post.models %}
+              <a href="{{post.models}}">models</a> /
+              {% endif %}
               {% if post.tweet %}
               <a href="{{post.tweet}}">tweet</a> /
               {% endif %}
               {% if post.video %}
               <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.models %}
-              <a href="{{post.models}}">models</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
