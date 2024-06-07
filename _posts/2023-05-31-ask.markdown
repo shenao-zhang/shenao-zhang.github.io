@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Asking Before Action: Gather Information in Embodied Decision Making with Language Models](https://arxiv.org/abs/2305.15695)
+title:  "Asking Before Action: Gather Information in Embodied Decision Making with Language Models"
 date:   2020-6-10 12:15:53 +02:00
 image: /images/ask23.jpg
 categories: research
