@@ -6,6 +6,6 @@ image: /images/rpo.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "Zhihan Liu*, Miao Lu*, <strong>Shenao Zhang</strong>, Boyi Liu, Hongyi Guo, Yingxiang Yang, Jose Blanchet, Zhaoran Wang"
-venue: "ICML ARLET Workshop, 2024"
+venue: "Neural Information Processing Systems (NeurIPS), 2024"
 arxiv: https://arxiv.org/abs/2405.16436
 ---
