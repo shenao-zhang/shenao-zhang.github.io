@@ -6,7 +6,7 @@ image: /images/realign.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Zhihan Liu, Boyi Liu, Yufeng Zhang, Yingxiang Yang, Yongfei Liu, Liyu Chen, Tao Sun, Zhaoran Wang"
-venue: "Preprint, 2023"
+venue: "Preprint, 2024"
 arxiv: https://arxiv.org/abs/2410.08067
 code: https://github.com/shenao-zhang/reward-augmented-preference
 ---
