@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reward-Augmented Data Enhances Direct Preference Alignment of LLMs"
-date:   2020-6-11 12:15:53 +02:00
+date:   2024-10-07 12:17:53 +02:00
 image: /images/realign.jpg
 categories: research
 author: "Shenao Zhang"
