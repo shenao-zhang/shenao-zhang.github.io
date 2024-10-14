@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Reward-Augmented Data Enhances Direct Preference Alignment of LLMs"
+date:   2020-6-11 12:15:53 +02:00
+image: /images/realign.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "<strong>Shenao Zhang</strong>*, Zhihan Liu, Boyi Liu, Yufeng Zhang, Yingxiang Yang, Yongfei Liu, Liyu Chen, Tao Sun, Zhaoran Wang"
+venue: "Preprint, 2023"
+arxiv: https://arxiv.org/abs/2410.08067
+code: https://github.com/shenao-zhang/reward-augmented-preference
+---
