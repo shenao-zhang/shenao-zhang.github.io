@@ -9,6 +9,6 @@ authors: "<strong>Shenao Zhang</strong>, Donghan Yu, Hiteshi Sharma, Ziyi Yang, 
 venue: "ICML AutoRL Workshop, 2024 (<span style='color: red;'>Best Paper Award</span>)"
 arxiv: https://arxiv.org/abs/2405.19332
 code: https://github.com/shenao-zhang/SELM
-tweet: https://twitter.com/ShenaoZhang/status/1796271110104740009
+thread: https://twitter.com/ShenaoZhang/status/1796271110104740009
 models: https://huggingface.co/collections/ZhangShenao
 ---
