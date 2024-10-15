@@ -10,5 +10,5 @@ venue: "International Conference on Machine Learning (ICML), 2024"
 arxiv: https://openreview.net/pdf?id=MGkeWJxQVl
 website: https://agentification.github.io/RAFA
 code: https://github.com/agentification/RAFA_code
-tweet: https://x.com/zhaoran_wang/status/1713616478153392448
+thread: https://x.com/zhaoran_wang/status/1713616478153392448
 ---
