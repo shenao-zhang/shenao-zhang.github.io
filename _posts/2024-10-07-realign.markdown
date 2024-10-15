@@ -9,4 +9,5 @@ authors: "<strong>Shenao Zhang</strong>, Zhihan Liu, Boyi Liu, Yufeng Zhang, Yin
 venue: "Preprint, 2024"
 arxiv: https://arxiv.org/abs/2410.08067
 code: https://github.com/shenao-zhang/reward-augmented-preference
+thread: https://twitter.com/ShenaoZhang/status/1845884442721583467
 ---
