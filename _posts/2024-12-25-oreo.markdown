@@ -9,4 +9,5 @@ authors: "Huaijie Wang*, Shibo Hao*, Hanze Dong, <strong>Shenao Zhang</strong>, 
 venue: "Preprint, 2024"
 arxiv: https://arxiv.org/abs/2412.16145
 code: https://github.com/jwhj/OREO
+thread: https://x.com/Ber18791531/status/1871318675044868602
 ---
