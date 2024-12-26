@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Offline Reinforcement Learning for LLM Multi-Step Reasoning"
+date:   2024-12-20 12:15:53 +02:00
+image: /images/oreo.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "Huaijie Wang*, Shibo Hao*, Hanze Dong, <strong>Shenao Zhang</strong>, Yilin Bao, Ziran Yang, Yi Wu"
+venue: "Preprint, 2024"
+arxiv: https://arxiv.org/abs/2412.16145
+code: https://github.com/jwhj/OREO
+---
