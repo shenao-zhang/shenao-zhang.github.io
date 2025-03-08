@@ -5,8 +5,8 @@ date:   2024-10-07 12:17:53 +02:00
 image: /images/realign.jpg
 categories: research
 author: "Shenao Zhang"
-authors: "<strong>Shenao Zhang</strong>, Zhihan Liu, Boyi Liu, Yufeng Zhang, Yingxiang Yang, Yongfei Liu, Liyu Chen, Tao Sun, Zhaoran Wang"
-venue: "Preprint, 2024"
+authors: "<strong>Shenao Zhang</strong>*, Zhihan Liu*, Boyi Liu, Yufeng Zhang, Yingxiang Yang, Yongfei Liu, Liyu Chen, Tao Sun, Zhaoran Wang"
+venue: "ICLR DATA-FM Workshop, 2025"
 arxiv: https://arxiv.org/abs/2410.08067
 code: https://github.com/shenao-zhang/reward-augmented-preference
 thread: https://twitter.com/ShenaoZhang/status/1845884442721583467
