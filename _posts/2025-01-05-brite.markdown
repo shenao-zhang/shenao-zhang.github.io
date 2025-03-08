@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "BRiTE: Bootstrapping Reinforced Thinking Process to Enhance Language Model Reasoning"
+date:   2025-01-05 12:15:53 +02:00
+image: /images/brite.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "Han Zhong*, Yutong Yin*, <strong>Shenao Zhang</strong>, Xiaojun Xu, Yuanxin Liu, Yifei Zuo, Zhihan Liu, Boyi Liu, Sirui Zheng, Hongyi Guo, Liwei Wang, Mingyi Hong, Zhaoran Wang"
+venue: "Preprint, 2025"
+arxiv: https://arxiv.org/abs/2501.18858
+---
