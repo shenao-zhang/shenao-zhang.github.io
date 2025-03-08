@@ -7,7 +7,7 @@ categories: research
 author: "Shenao Zhang"
 authors: "Huaijie Wang*, Shibo Hao*, Hanze Dong, <strong>Shenao Zhang</strong>, Yilin Bao, Ziran Yang, Yi Wu"
 venue: "ICLR Workshop on Reasoning and Planning for LLMs, 2025<br>
-Featured in <a href='https://huggingface.co/papers/2405.19332' style='color: red;'>HF Daily Papers</a>""
+Featured in <a href='https://huggingface.co/papers/2412.16145' style='color: red;'>HF Daily Papers</a>"
 arxiv: https://arxiv.org/abs/2412.16145
 code: https://github.com/jwhj/OREO
 thread: https://x.com/Ber18791531/status/1871318675044868602
