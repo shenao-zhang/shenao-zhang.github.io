@@ -6,6 +6,6 @@ image: /images/brite.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "Han Zhong*, Yutong Yin*, <strong>Shenao Zhang</strong>, Xiaojun Xu, Yuanxin Liu, Yifei Zuo, Zhihan Liu, Boyi Liu, Sirui Zheng, Hongyi Guo, Liwei Wang, Mingyi Hong, Zhaoran Wang"
-venue: "Preprint, 2025"
+venue: "International Conference on Machine Learning (ICML), 2025"
 arxiv: https://arxiv.org/abs/2501.18858
 ---
