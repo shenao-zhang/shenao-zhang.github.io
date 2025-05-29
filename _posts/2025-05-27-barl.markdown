@@ -2,7 +2,7 @@
 layout: post
 title:  "Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning"
 date:   2025-5-27 12:15:53 +02:00
-image: /images/barl.jpg
+image: /images/barl25.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Yaqing Wang, Yinxiao Liu, Tianqi Liu, Peter Grabowski, Eugene Ie, Zhaoran Wang<sup>†</sup>, Yunxuan Li<sup>†</sup>"
