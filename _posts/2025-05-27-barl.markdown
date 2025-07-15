@@ -6,8 +6,10 @@ image: /images/barl25.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Yaqing Wang, Yinxiao Liu, Tianqi Liu, Peter Grabowski, Eugene Ie, Zhaoran Wang<sup>†</sup>, Yunxuan Li<sup>†</sup>"
-venue: "Preprint, 2025"
+venue: "Preprint, 2025<br>
+Featured by <a href='https://www.mittrchina.com/news/detail/14953' style='color: red;'>MIT Tech Review China</a>"
 arxiv: https://arxiv.org/abs/2505.20561
 code: https://github.com/shenao-zhang/BARL
+poster: /pdfs/barl-poster.pdf
 thread: https://x.com/ShenaoZhang/status/1927746652674163077
 ---
