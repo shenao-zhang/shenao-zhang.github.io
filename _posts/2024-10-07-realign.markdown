@@ -9,5 +9,6 @@ authors: "<strong>Shenao Zhang</strong>*, Zhihan Liu*, Boyi Liu, Yufeng Zhang, Y
 venue: "International Conference on Machine Learning (ICML), 2025"
 arxiv: https://arxiv.org/abs/2410.08067
 code: https://github.com/shenao-zhang/reward-augmented-preference
+poster: /pdfs/redpo-poster.pdf
 thread: https://twitter.com/ShenaoZhang/status/1845884442721583467
 ---
