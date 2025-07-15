@@ -8,4 +8,6 @@ author: "Shenao Zhang"
 authors: "Han Zhong*, Yutong Yin*, <strong>Shenao Zhang</strong>*, Xiaojun Xu*, Yuanxin Liu*, Yifei Zuo*, Zhihan Liu*, Boyi Liu, Sirui Zheng, Hongyi Guo, Liwei Wang, Mingyi Hong, Zhaoran Wang"
 venue: "International Conference on Machine Learning (ICML), 2025"
 arxiv: https://arxiv.org/abs/2501.18858
+poster: /pdfs/brite-poster.pdf
+thread: https://x.com/zhaoran_wang/status/1944116308012150913
 ---
