@@ -8,7 +8,7 @@ author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Donghan Yu, Hiteshi Sharma, Ziyi Yang, Shuohang Wang, Hany Hassan, Zhaoran Wang"
 venue: "Transactions on Machine Learning Research (TMLR)<br> 
 ICML AutoRL Workshop, 2024 (<span style='color: red;'>Best Paper Award</span>)<br>
-Featured in <a href='https://huggingface.co/papers/2405.19332' style='color: red;'>HF Daily Papers</a>"
+Featured by <a href='https://huggingface.co/papers/2405.19332' style='color: red;'>HF Daily Papers</a>"
 arxiv: https://arxiv.org/abs/2405.19332
 code: https://github.com/shenao-zhang/SELM
 thread: https://x.com/arankomatsuzaki/status/1796004053920702606
