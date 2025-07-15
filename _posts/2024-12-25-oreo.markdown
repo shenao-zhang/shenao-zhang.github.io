@@ -8,7 +8,7 @@ author: "Shenao Zhang"
 authors: "Huaijie Wang*, Shibo Hao*, Hanze Dong, <strong>Shenao Zhang</strong>, Yilin Bao, Ziran Yang, Yi Wu"
 venue: "Findings of the Association for Computational Linguistics (ACL), 2025<br> 
 ICLR Workshop on Reasoning and Planning for LLMs, 2025 (<span style='color: red;'>Oral</span>)<br>
-Featured in <a href='https://huggingface.co/papers/2412.16145' style='color: red;'>HF Daily Papers</a>"
+Featured by <a href='https://huggingface.co/papers/2412.16145' style='color: red;'>HF Daily Papers</a>"
 arxiv: https://arxiv.org/abs/2412.16145
 code: https://github.com/jwhj/OREO
 thread: https://x.com/Ber18791531/status/1871318675044868602
