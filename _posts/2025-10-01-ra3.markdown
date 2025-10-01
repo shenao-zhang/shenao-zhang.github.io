@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Learning to Reason as Action Abstractions with Scalable Mid-Training RL"
+date:   2025-9-30 12:15:53 +02:00
+image: /images/ra3.jpg
+categories: research
+author: "Shenao Zhang"
+authors: "<strong>Shenao Zhang</strong>, Donghan Yu, Yihao Feng, Bowen Jin, Zhaoran Wang, John Peebles<sup>†</sup>, Zirui Wang<sup>†</sup>"
+venue: "Preprint, 2025"
+arxiv: https://arxiv.org/abs/2509.25810
+thread: https://x.com/ShenaoZhang/status/1973413781565751331
+---
