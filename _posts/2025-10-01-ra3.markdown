@@ -6,7 +6,7 @@ image: /images/ra3.jpg
 categories: research
 author: "Shenao Zhang"
 authors: "<strong>Shenao Zhang</strong>, Donghan Yu, Yihao Feng, Bowen Jin, Zhaoran Wang, John Peebles<sup>†</sup>, Zirui Wang<sup>†</sup>"
-venue: "Preprint, 2025"
+venue: "International Conference on Learning Representations (ICLR), 2026"
 arxiv: https://arxiv.org/abs/2509.25810
 thread: https://x.com/ShenaoZhang/status/1973413781565751331
 ---
