@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Towards Continual Learners that Explore at Test Time"
+date:   2026-3-01 12:15:53 +02:00
+image: /images/cl.png
+categories: research
+author: "Shenao Zhang"
+authors: "<strong>Shenao Zhang</strong>"
+venue: "Notion, 2026<br>
+blog: https://www.notion.so/Towards-Continual-Learners-that-Explore-at-Test-Time-31bea5c73c66800f8ac3d45499d885f8
+---
