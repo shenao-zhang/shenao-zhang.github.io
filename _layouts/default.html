@@ -90,30 +90,17 @@
               <br>
               <em>{{post.venue}}</em>
               <br>
-              {% if post.arxiv %}
-              <a href="{{post.arxiv}}">paper</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.models %}
-              <a href="{{post.models}}">models</a> /
-              {% endif %}
-              {% if post.thread %}
-              <a href="{{post.thread}}">thread</a> /
-              {% endif %}
-              {% if post.blog %}
-              <a href="{{post.blog}}">blog</a>
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
+              {% capture links %}
+                {% if post.arxiv %}<a href="{{post.arxiv}}">paper</a> / {% endif %}
+                {% if post.code %}<a href="{{post.code}}">code</a> / {% endif %}
+                {% if post.website %}<a href="{{post.website}}">website</a> / {% endif %}
+                {% if post.poster %}<a href="{{post.poster}}">poster</a> / {% endif %}
+                {% if post.models %}<a href="{{post.models}}">models</a> / {% endif %}
+                {% if post.thread %}<a href="{{post.thread}}">thread</a> / {% endif %}
+                {% if post.video %}<a href="{{post.video}}">video</a> / {% endif %}
+                {% if post.blog %}<a href="{{post.blog}}">blog</a> / {% endif %}
+              {% endcapture %}
+              {{ links | strip | replace_last: ' /', '' }}
               <p></p>
               {{ post.excerpt }}
             </td>
