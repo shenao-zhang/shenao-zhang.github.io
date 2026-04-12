@@ -90,17 +90,40 @@
               <br>
               <em>{{post.venue}}</em>
               <br>
-              {% capture links %}
-                {% if post.arxiv %}<a href="{{post.arxiv}}">paper</a> / {% endif %}
-                {% if post.code %}<a href="{{post.code}}">code</a> / {% endif %}
-                {% if post.website %}<a href="{{post.website}}">website</a> / {% endif %}
-                {% if post.poster %}<a href="{{post.poster}}">poster</a> / {% endif %}
-                {% if post.models %}<a href="{{post.models}}">models</a> / {% endif %}
-                {% if post.thread %}<a href="{{post.thread}}">thread</a> / {% endif %}
-                {% if post.video %}<a href="{{post.video}}">video</a> / {% endif %}
-                {% if post.blog %}<a href="{{post.blog}}">blog</a> / {% endif %}
-              {% endcapture %}
-              {{ links | strip | replace_last: ' /', '' }}
+              {% assign first = true %}
+              
+              {% if post.arxiv %}
+                {% unless first %} / {% endunless %}<a href="{{post.arxiv}}">paper</a>
+                {% assign first = false %}
+              {% endif %}
+              {% if post.video %}
+                {% unless first %} / {% endunless %}<a href="{{post.video}}">video</a>
+                {% assign first = false %}
+              {% endif %}
+              {% if post.code %}
+                {% unless first %} / {% endunless %}<a href="{{post.code}}">code</a>
+                {% assign first = false %}
+              {% endif %}
+              {% if post.website %}
+                {% unless first %} / {% endunless %}<a href="{{post.website}}">website</a>
+                {% assign first = false %}
+              {% endif %}
+              {% if post.poster %}
+                {% unless first %} / {% endunless %}<a href="{{post.poster}}">poster</a>
+                {% assign first = false %}
+              {% endif %}
+              {% if post.models %}
+                {% unless first %} / {% endunless %}<a href="{{post.models}}">models</a>
+                {% assign first = false %}
+              {% endif %}
+              {% if post.thread %}
+                {% unless first %} / {% endunless %}<a href="{{post.thread}}">thread</a>
+                {% assign first = false %}
+              {% endif %}
+              {% if post.blog %}
+                {% unless first %} / {% endunless %}<a href="{{post.blog}}">blog</a>
+                {% assign first = false %}
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
